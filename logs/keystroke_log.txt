@@ -1,0 +1,1278 @@
+
+2025-06-20 11:03:21.194234 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:03:21.194304 - Open windows: 7
+2025-06-20 11:03:27.717493 - Special key pressed: Key.cmd
+2025-06-20 11:03:28.052408 - Special key pressed: Key.left
+
+2025-06-20 11:03:36.201151 - Active window: pip installation connection error - Google Chrome
+2025-06-20 11:03:36.201276 - Open windows: 7
+2025-06-20 11:03:41.102753 - Key pressed: i
+2025-06-20 11:03:41.315382 - Key pressed: s
+2025-06-20 11:03:41.563754 - Special key pressed: Key.space
+2025-06-20 11:03:41.787054 - Key pressed: s
+2025-06-20 11:03:41.969136 - Key pressed: h
+2025-06-20 11:03:42.139983 - Key pressed: o
+2025-06-20 11:03:42.256293 - Key pressed: w
+2025-06-20 11:03:42.448639 - Special key pressed: Key.space
+2025-06-20 11:03:42.635823 - Key pressed: i
+2025-06-20 11:03:42.809262 - Key pressed: n
+2025-06-20 11:03:42.998077 - Special key pressed: Key.space
+2025-06-20 11:03:43.248532 - Key pressed: t
+2025-06-20 11:03:43.352502 - Key pressed: e
+2025-06-20 11:03:43.454100 - Key pressed: r
+2025-06-20 11:03:43.814775 - Key pressed: m
+2025-06-20 11:03:44.075175 - Key pressed: i
+2025-06-20 11:03:44.226168 - Key pressed: n
+2025-06-20 11:03:44.301620 - Key pressed: a
+2025-06-20 11:03:44.414912 - Key pressed: l
+2025-06-20 11:03:44.755756 - Special key pressed: Key.enter
+
+2025-06-20 11:03:51.207477 - Active window: pip installation connection error - Google Chrome
+2025-06-20 11:03:51.207599 - Open windows: 7
+2025-06-20 11:03:53.524446 - Key pressed: f
+2025-06-20 11:03:53.642329 - Key pressed: d
+2025-06-20 11:03:53.834009 - Key pressed: f
+2025-06-20 11:03:53.950341 - Key pressed: d
+2025-06-20 11:03:53.968115 - Key pressed: j
+2025-06-20 11:03:54.121097 - Key pressed: f
+2025-06-20 11:03:54.160465 - Key pressed: h
+2025-06-20 11:03:54.268993 - Key pressed: k
+2025-06-20 11:03:54.272277 - Key pressed: j
+2025-06-20 11:03:54.275068 - Key pressed: d
+2025-06-20 11:03:54.427244 - Key pressed: h
+2025-06-20 11:03:54.553394 - Key pressed: k
+2025-06-20 11:03:54.556675 - Key pressed: j
+2025-06-20 11:03:54.588866 - Key pressed: s
+2025-06-20 11:03:55.175135 - Key pressed: d
+2025-06-20 11:03:55.339635 - Key pressed: u
+2025-06-20 11:03:55.341832 - Key pressed: s
+2025-06-20 11:03:55.457743 - Key pressed: h
+2025-06-20 11:03:55.510451 - Key pressed: d
+2025-06-20 11:03:55.668265 - Key pressed: s
+2025-06-20 11:03:57.400416 - Key pressed: d
+2025-06-20 11:03:57.422286 - Key pressed: f
+2025-06-20 11:03:57.572578 - Key pressed: j
+2025-06-20 11:03:57.824821 - Key pressed: h
+2025-06-20 11:03:57.825938 - Key pressed: f
+2025-06-20 11:03:57.978519 - Key pressed: k
+2025-06-20 11:03:57.981365 - Key pressed: j
+2025-06-20 11:03:57.984395 - Key pressed: d
+2025-06-20 11:04:02.204939 - Key pressed: y
+2025-06-20 11:04:02.528944 - Key pressed: u
+2025-06-20 11:04:02.731658 - Key pressed: o
+2025-06-20 11:04:03.448626 - Special key pressed: Key.backspace
+2025-06-20 11:04:03.630590 - Special key pressed: Key.backspace
+2025-06-20 11:04:04.084230 - Key pressed: o
+2025-06-20 11:04:04.280257 - Key pressed: u
+2025-06-20 11:04:04.385565 - Key pressed: t
+2025-06-20 11:04:04.712502 - Key pressed: u
+2025-06-20 11:04:04.949323 - Key pressed: b
+2025-06-20 11:04:05.069826 - Key pressed: e
+2025-06-20 11:04:05.347218 - Special key pressed: Key.enter
+
+2025-06-20 11:04:06.209637 - Active window: 
+2025-06-20 11:04:06.209666 - Open windows: 7
+2025-06-20 11:04:11.004646 - Key pressed: y
+2025-06-20 11:04:11.231621 - Key pressed: o
+2025-06-20 11:04:11.421415 - Key pressed: u
+2025-06-20 11:04:11.799732 - Key pressed: t
+2025-06-20 11:04:12.106778 - Key pressed: u
+2025-06-20 11:04:12.470586 - Key pressed: b
+2025-06-20 11:04:12.668954 - Key pressed: e
+
+2025-06-20 11:04:21.214317 - Active window: Quick settings
+2025-06-20 11:04:21.214514 - Open windows: 8
+
+2025-06-20 11:04:36.225165 - Active window: Quick settings
+2025-06-20 11:04:36.225492 - Open windows: 8
+
+2025-06-20 11:04:52.994878 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:04:52.994932 - Open windows: 7
+2025-06-20 11:04:57.201338 - Key pressed: y
+2025-06-20 11:04:57.493574 - Key pressed: o
+2025-06-20 11:04:57.923172 - Key pressed: u
+2025-06-20 11:04:58.563363 - Key pressed: t
+2025-06-20 11:04:58.691032 - Key pressed: u
+2025-06-20 11:04:58.847582 - Key pressed: b
+2025-06-20 11:04:59.108959 - Key pressed: e
+2025-06-20 11:04:59.400668 - Special key pressed: Key.enter
+2025-06-20 11:05:02.067722 - Key pressed: s
+2025-06-20 11:05:02.283517 - Key pressed: e
+2025-06-20 11:05:02.534195 - Key pressed: a
+2025-06-20 11:05:02.797340 - Key pressed: r
+2025-06-20 11:05:03.057807 - Key pressed: c
+2025-06-20 11:05:03.201523 - Key pressed: h
+2025-06-20 11:05:03.658973 - Special key pressed: Key.space
+2025-06-20 11:05:03.812407 - Key pressed: f
+2025-06-20 11:05:03.979489 - Key pressed: o
+2025-06-20 11:05:04.104947 - Key pressed: r
+2025-06-20 11:05:04.492423 - Special key pressed: Key.space
+2025-06-20 11:05:04.858561 - Key pressed: c
+2025-06-20 11:05:05.017114 - Key pressed: y
+2025-06-20 11:05:05.183833 - Key pressed: b
+2025-06-20 11:05:05.300004 - Key pressed: e
+2025-06-20 11:05:05.476050 - Key pressed: r
+2025-06-20 11:05:05.787755 - Key pressed: s
+2025-06-20 11:05:05.978824 - Key pressed: e
+2025-06-20 11:05:06.196573 - Key pressed: c
+2025-06-20 11:05:06.446401 - Key pressed: u
+2025-06-20 11:05:06.580362 - Key pressed: i
+2025-06-20 11:05:06.750266 - Key pressed: r
+2025-06-20 11:05:06.990326 - Key pressed: t
+2025-06-20 11:05:07.117198 - Key pressed: y
+2025-06-20 11:05:07.467825 - Special key pressed: Key.enter
+2025-06-20 11:05:13.721964 - Special key pressed: Key.backspace
+2025-06-20 11:05:14.089417 - Key pressed: u
+2025-06-20 11:05:17.911237 - Special key pressed: Key.backspace
+2025-06-20 11:05:18.194199 - Special key pressed: Key.backspace
+2025-06-20 11:05:18.422551 - Special key pressed: Key.backspace
+2025-06-20 11:05:18.601932 - Special key pressed: Key.backspace
+
+2025-06-20 11:05:23.007745 - Active window: pip installation connection error - Google Chrome
+2025-06-20 11:05:23.007839 - Open windows: 8
+
+2025-06-20 11:05:38.012129 - Active window: Search
+2025-06-20 11:05:38.012371 - Open windows: 8
+2025-06-20 11:05:39.454115 - Key pressed: c
+2025-06-20 11:05:40.698000 - Special key pressed: Key.backspace
+2025-06-20 11:05:42.215402 - Key pressed: t
+2025-06-20 11:05:42.390956 - Key pressed: a
+2025-06-20 11:05:42.678856 - Key pressed: s
+2025-06-20 11:05:42.870084 - Key pressed: k
+2025-06-20 11:05:43.266728 - Special key pressed: Key.enter
+
+2025-06-20 11:05:53.016395 - Active window: pip installation connection error - Google Chrome
+2025-06-20 11:05:53.016563 - Open windows: 9
+2025-06-20 11:06:03.496641 - Special key pressed: Key.ctrl_l
+2025-06-20 11:06:03.744880 - Key pressed: 
+2025-06-20 11:06:07.420519 - Special key pressed: Key.ctrl_l
+2025-06-20 11:06:07.612252 - Key pressed: 
+
+2025-06-20 11:06:08.020715 - Active window: ChatGPT - Google Chrome
+2025-06-20 11:06:08.020818 - Open windows: 9
+2025-06-20 11:06:08.827112 - Special key pressed: Key.shift_r
+2025-06-20 11:06:08.827994 - Special key pressed: Key.enter
+2025-06-20 11:06:09.345648 - Special key pressed: Key.enter
+2025-06-20 11:06:09.379449 - Special key pressed: Key.enter
+2025-06-20 11:06:09.414277 - Special key pressed: Key.enter
+2025-06-20 11:06:09.448042 - Special key pressed: Key.enter
+2025-06-20 11:06:09.867408 - Key pressed: i
+2025-06-20 11:06:09.986238 - Key pressed: s
+2025-06-20 11:06:10.103917 - Special key pressed: Key.space
+2025-06-20 11:06:10.411002 - Key pressed: h
+2025-06-20 11:06:10.598004 - Key pressed: s
+2025-06-20 11:06:10.742860 - Key pressed: o
+2025-06-20 11:06:10.901761 - Key pressed: w
+2025-06-20 11:06:11.130622 - Special key pressed: Key.space
+2025-06-20 11:06:11.549928 - Special key pressed: Key.backspace
+2025-06-20 11:06:12.068584 - Special key pressed: Key.backspace
+2025-06-20 11:06:12.101705 - Special key pressed: Key.backspace
+2025-06-20 11:06:12.264448 - Special key pressed: Key.backspace
+2025-06-20 11:06:12.459924 - Special key pressed: Key.backspace
+2025-06-20 11:06:12.724080 - Key pressed: s
+2025-06-20 11:06:12.915287 - Key pressed: h
+2025-06-20 11:06:13.115738 - Key pressed: o
+2025-06-20 11:06:13.159241 - Key pressed: w
+2025-06-20 11:06:13.332085 - Special key pressed: Key.space
+2025-06-20 11:06:13.437110 - Key pressed: i
+2025-06-20 11:06:13.567963 - Key pressed: n
+2025-06-20 11:06:13.754947 - Key pressed: n
+2025-06-20 11:06:13.884984 - Special key pressed: Key.space
+2025-06-20 11:06:14.109167 - Key pressed: t
+2025-06-20 11:06:14.220317 - Key pressed: e
+2025-06-20 11:06:14.297857 - Key pressed: r
+2025-06-20 11:06:14.560491 - Key pressed: i
+2025-06-20 11:06:14.729802 - Key pressed: m
+2025-06-20 11:06:14.851223 - Key pressed: a
+2025-06-20 11:06:14.916228 - Key pressed: l
+2025-06-20 11:06:15.130392 - Special key pressed: Key.space
+2025-06-20 11:06:15.725617 - Key pressed: y
+2025-06-20 11:06:15.820135 - Key pressed: e
+2025-06-20 11:06:16.032798 - Key pressed: s
+2025-06-20 11:06:16.106397 - Special key pressed: Key.space
+2025-06-20 11:06:16.251381 - Key pressed: o
+2025-06-20 11:06:16.377705 - Key pressed: r
+2025-06-20 11:06:16.493406 - Special key pressed: Key.space
+2025-06-20 11:06:16.633686 - Key pressed: n
+2025-06-20 11:06:16.789649 - Key pressed: o
+2025-06-20 11:06:17.245383 - Special key pressed: Key.enter
+
+2025-06-20 11:06:23.025615 - Active window: Show in terminal - Google Chrome
+2025-06-20 11:06:23.025718 - Open windows: 9
+2025-06-20 11:06:27.352939 - Special key pressed: Key.cmd
+2025-06-20 11:06:27.600719 - Special key pressed: Key.left
+
+2025-06-20 11:06:38.029897 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:06:38.030091 - Open windows: 9
+2025-06-20 11:06:50.222266 - Special key pressed: Key.ctrl_l
+2025-06-20 11:06:50.462158 - Key pressed: 
+
+2025-06-20 11:06:53.034157 - Active window: Log in Terminal - Google Chrome
+2025-06-20 11:06:53.034256 - Open windows: 9
+2025-06-20 11:07:05.260752 - Key pressed: h
+2025-06-20 11:07:05.593087 - Key pressed: i
+2025-06-20 11:07:06.204991 - Special key pressed: Key.space
+2025-06-20 11:07:07.852082 - Special key pressed: Key.shift_r
+2025-06-20 11:07:07.852992 - Special key pressed: Key.enter
+
+2025-06-20 11:07:08.038754 - Active window: ChatGPT - Google Chrome
+2025-06-20 11:07:08.038852 - Open windows: 9
+2025-06-20 11:07:08.615458 - Key pressed: i
+2025-06-20 11:07:08.793002 - Special key pressed: Key.space
+2025-06-20 11:07:08.947245 - Key pressed: w
+2025-06-20 11:07:09.188072 - Key pressed: a
+2025-06-20 11:07:09.269865 - Key pressed: n
+2025-06-20 11:07:09.580868 - Key pressed: t
+2025-06-20 11:07:09.822088 - Special key pressed: Key.space
+2025-06-20 11:07:12.102539 - Special key pressed: Key.backspace
+2025-06-20 11:07:12.746028 - Key pressed: h
+2025-06-20 11:07:12.896656 - Key pressed: i
+2025-06-20 11:07:13.076883 - Special key pressed: Key.space
+2025-06-20 11:07:13.276857 - Key pressed: i
+2025-06-20 11:07:13.440361 - Special key pressed: Key.space
+2025-06-20 11:07:13.610987 - Key pressed: w
+2025-06-20 11:07:13.842207 - Key pressed: a
+2025-06-20 11:07:13.881826 - Key pressed: n
+2025-06-20 11:07:14.182558 - Key pressed: t
+2025-06-20 11:07:14.527811 - Special key pressed: Key.space
+2025-06-20 11:07:14.794257 - Key pressed: r
+2025-06-20 11:07:15.077982 - Key pressed: i
+2025-06-20 11:07:15.797135 - Special key pressed: Key.backspace
+2025-06-20 11:07:15.922858 - Special key pressed: Key.backspace
+2025-06-20 11:07:16.052698 - Key pressed: t
+2025-06-20 11:07:16.180337 - Key pressed: o
+2025-06-20 11:07:16.363013 - Special key pressed: Key.space
+2025-06-20 11:07:16.515306 - Key pressed: s
+2025-06-20 11:07:16.586648 - Key pressed: h
+2025-06-20 11:07:16.740532 - Key pressed: o
+2025-06-20 11:07:16.831837 - Key pressed: w
+2025-06-20 11:07:16.928412 - Special key pressed: Key.space
+2025-06-20 11:07:17.068085 - Key pressed: i
+2025-06-20 11:07:17.201398 - Key pressed: n
+2025-06-20 11:07:17.334523 - Special key pressed: Key.space
+2025-06-20 11:07:17.547718 - Key pressed: t
+2025-06-20 11:07:17.673706 - Key pressed: e
+2025-06-20 11:07:17.719956 - Key pressed: r
+2025-06-20 11:07:18.077720 - Key pressed: m
+2025-06-20 11:07:18.271021 - Key pressed: i
+2025-06-20 11:07:18.436779 - Key pressed: a
+2025-06-20 11:07:18.517777 - Key pressed: l
+2025-06-20 11:07:18.744916 - Key pressed: n
+2025-06-20 11:07:18.883998 - Key pressed: a
+2025-06-20 11:07:19.037337 - Special key pressed: Key.space
+2025-06-20 11:07:19.307373 - Key pressed: o
+2025-06-20 11:07:19.692442 - Key pressed: u
+2025-06-20 11:07:19.848683 - Key pressed: p
+2025-06-20 11:07:19.949732 - Key pressed: t
+2025-06-20 11:07:20.232502 - Key pressed: u
+2025-06-20 11:07:20.543847 - Key pressed: t
+2025-06-20 11:07:20.712790 - Special key pressed: Key.space
+2025-06-20 11:07:21.445640 - Key pressed: l
+2025-06-20 11:07:21.638129 - Key pressed: i
+2025-06-20 11:07:21.784592 - Key pressed: k
+2025-06-20 11:07:21.869562 - Key pressed: e
+2025-06-20 11:07:21.957979 - Special key pressed: Key.space
+2025-06-20 11:07:22.146079 - Key pressed: [
+2025-06-20 11:07:22.332944 - Key pressed: r
+2025-06-20 11:07:22.664150 - Key pressed: c
+2025-06-20 11:07:22.986504 - Key pressed: e
+
+2025-06-20 11:07:23.042564 - Active window: ChatGPT - Google Chrome
+2025-06-20 11:07:23.042618 - Open windows: 9
+2025-06-20 11:07:23.432522 - Key pressed: s
+2025-06-20 11:07:23.570581 - Special key pressed: Key.space
+2025-06-20 11:07:23.760807 - Key pressed: i
+2025-06-20 11:07:23.869443 - Key pressed: s
+2025-06-20 11:07:23.998440 - Special key pressed: Key.space
+2025-06-20 11:07:24.159059 - Key pressed: h
+2025-06-20 11:07:24.228024 - Key pressed: a
+2025-06-20 11:07:24.386692 - Key pressed: p
+2025-06-20 11:07:24.534313 - Key pressed: p
+2025-06-20 11:07:24.633690 - Key pressed: e
+2025-06-20 11:07:24.791710 - Key pressed: n
+2025-06-20 11:07:24.976160 - Special key pressed: Key.space
+2025-06-20 11:07:25.498878 - Key pressed: b
+2025-06-20 11:07:25.693919 - Key pressed: u
+2025-06-20 11:07:25.890767 - Key pressed: t
+2025-06-20 11:07:26.045581 - Special key pressed: Key.space
+2025-06-20 11:07:26.204015 - Key pressed: i
+2025-06-20 11:07:26.354454 - Key pressed: n
+2025-06-20 11:07:26.510036 - Special key pressed: Key.space
+2025-06-20 11:07:26.722892 - Key pressed: t
+2025-06-20 11:07:26.847227 - Key pressed: e
+2025-06-20 11:07:26.917860 - Key pressed: r
+2025-06-20 11:07:27.197657 - Key pressed: m
+2025-06-20 11:07:27.388853 - Key pressed: i
+2025-06-20 11:07:27.526329 - Key pressed: n
+2025-06-20 11:07:27.612627 - Key pressed: a
+2025-06-20 11:07:27.698911 - Key pressed: l
+2025-06-20 11:07:27.861438 - Special key pressed: Key.space
+2025-06-20 11:07:28.647203 - Key pressed: c
+2025-06-20 11:07:28.903151 - Key pressed: a
+2025-06-20 11:07:29.087494 - Key pressed: n
+2025-06-20 11:07:29.252012 - Key pressed: n
+2025-06-20 11:07:29.413821 - Key pressed: o
+2025-06-20 11:07:29.650327 - Key pressed: t
+2025-06-20 11:07:29.798537 - Special key pressed: Key.space
+2025-06-20 11:07:29.933501 - Key pressed: s
+2025-06-20 11:07:30.013586 - Key pressed: h
+2025-06-20 11:07:30.214741 - Key pressed: o
+2025-06-20 11:07:30.370086 - Key pressed: e
+2025-06-20 11:07:30.952811 - Special key pressed: Key.backspace
+2025-06-20 11:07:31.103212 - Key pressed: w
+2025-06-20 11:07:31.248919 - Special key pressed: Key.space
+2025-06-20 11:07:31.407982 - Key pressed: a
+2025-06-20 11:07:31.521142 - Key pressed: n
+2025-06-20 11:07:31.818369 - Key pressed: y
+2025-06-20 11:07:32.028431 - Key pressed: t
+2025-06-20 11:07:32.193414 - Key pressed: h
+2025-06-20 11:07:32.329359 - Key pressed: i
+2025-06-20 11:07:32.488117 - Key pressed: n
+2025-06-20 11:07:32.917651 - Key pressed: g
+2025-06-20 11:07:33.083940 - Special key pressed: Key.space
+2025-06-20 11:07:33.215304 - Special key pressed: Key.ctrl_l
+2025-06-20 11:07:33.352694 - Key pressed: 
+2025-06-20 11:07:33.750569 - Special key pressed: Key.enter
+
+2025-06-20 11:07:38.046871 - Active window: Keylogger System Tracker - Google Chrome
+2025-06-20 11:07:38.046928 - Open windows: 9
+
+2025-06-20 11:07:53.050841 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:07:53.050988 - Open windows: 9
+
+2025-06-20 11:10:24.791685 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:10:24.791685 - Open windows: 8
+2025-06-20 11:10:29.600663 - Special key pressed: Key.enter
+2025-06-20 11:10:30.563330 - Special key pressed: Key.enter
+2025-06-20 11:10:33.543021 - Key pressed: d
+2025-06-20 11:10:33.717887 - Key pressed: e
+2025-06-20 11:10:33.864240 - Key pressed: v
+2025-06-20 11:10:34.068232 - Key pressed: a
+2025-06-20 11:10:34.297296 - Key pressed: n
+2025-06-20 11:10:34.602784 - Key pressed: g
+2025-06-20 11:10:34.860248 - Key pressed: i
+2025-06-20 11:10:35.107279 - Special key pressed: Key.space
+2025-06-20 11:10:36.729282 - Key pressed: c
+2025-06-20 11:10:36.895857 - Key pressed: h
+2025-06-20 11:10:37.029801 - Key pressed: r
+2025-06-20 11:10:37.117177 - Key pressed: o
+2025-06-20 11:10:37.306124 - Key pressed: m
+2025-06-20 11:10:37.462876 - Key pressed: e
+2025-06-20 11:10:37.633622 - Special key pressed: Key.space
+
+2025-06-20 11:10:39.797942 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:10:39.797942 - Open windows: 8
+2025-06-20 11:10:41.268596 - Key pressed: n
+2025-06-20 11:10:41.561165 - Key pressed: o
+2025-06-20 11:10:42.189733 - Key pressed: t
+2025-06-20 11:10:42.291807 - Key pressed: e
+2025-06-20 11:10:42.837120 - Key pressed: p
+2025-06-20 11:10:42.840001 - Key pressed: a
+2025-06-20 11:10:43.212961 - Key pressed: f
+2025-06-20 11:10:43.481371 - Special key pressed: Key.enter
+2025-06-20 11:10:50.985183 - Key pressed: y
+2025-06-20 11:10:51.308090 - Key pressed: o
+2025-06-20 11:10:52.324122 - Key pressed: u
+2025-06-20 11:10:52.477923 - Key pressed: t
+2025-06-20 11:10:52.653368 - Key pressed: u
+2025-06-20 11:10:52.954000 - Key pressed: b
+2025-06-20 11:10:53.065485 - Key pressed: e
+2025-06-20 11:10:53.313510 - Special key pressed: Key.enter
+2025-06-20 11:10:54.890311 - Special key pressed: Key.cmd
+2025-06-20 11:10:55.168570 - Special key pressed: Key.right
+2025-06-20 11:10:57.674430 - Key pressed: c
+2025-06-20 11:10:57.916791 - Key pressed: y
+2025-06-20 11:10:58.346088 - Key pressed: e
+2025-06-20 11:10:58.609411 - Key pressed: r
+2025-06-20 11:10:59.394896 - Key pressed: s
+2025-06-20 11:10:59.597035 - Key pressed: e
+2025-06-20 11:10:59.811077 - Key pressed: c
+2025-06-20 11:11:00.043805 - Key pressed: u
+2025-06-20 11:11:00.201133 - Key pressed: i
+2025-06-20 11:11:00.247177 - Key pressed: r
+2025-06-20 11:11:00.495494 - Key pressed: t
+2025-06-20 11:11:00.614655 - Key pressed: y
+2025-06-20 11:11:00.798361 - Special key pressed: Key.space
+2025-06-20 11:11:01.170315 - Key pressed: v
+2025-06-20 11:11:01.463154 - Key pressed: i
+2025-06-20 11:11:01.805947 - Key pressed: r
+2025-06-20 11:11:02.039213 - Key pressed: o
+2025-06-20 11:11:03.184179 - Special key pressed: Key.backspace
+2025-06-20 11:11:03.378772 - Special key pressed: Key.backspace
+2025-06-20 11:11:03.696211 - Key pressed: f
+2025-06-20 11:11:03.928098 - Key pressed: e
+2025-06-20 11:11:04.819507 - Special key pressed: Key.backspace
+2025-06-20 11:11:05.057347 - Key pressed: d
+2025-06-20 11:11:05.260334 - Key pressed: e
+2025-06-20 11:11:05.388629 - Key pressed: o
+2025-06-20 11:11:05.671573 - Special key pressed: Key.space
+2025-06-20 11:11:05.905994 - Key pressed: i
+2025-06-20 11:11:06.126834 - Special key pressed: Key.space
+2025-06-20 11:11:06.227228 - Key pressed: w
+2025-06-20 11:11:06.500054 - Key pressed: a
+2025-06-20 11:11:06.620648 - Key pressed: n
+2025-06-20 11:11:06.924356 - Key pressed: t
+2025-06-20 11:11:07.346174 - Special key pressed: Key.enter
+2025-06-20 11:11:15.615026 - Key pressed: l
+2025-06-20 11:11:15.827442 - Key pressed: o
+2025-06-20 11:11:16.219923 - Key pressed: g
+2025-06-20 11:11:16.417257 - Key pressed: i
+2025-06-20 11:11:16.708463 - Key pressed: n
+2025-06-20 11:11:18.684747 - Special key pressed: Key.backspace
+2025-06-20 11:11:19.203215 - Special key pressed: Key.backspace
+2025-06-20 11:11:19.236862 - Special key pressed: Key.backspace
+2025-06-20 11:11:19.271038 - Special key pressed: Key.backspace
+2025-06-20 11:11:19.305424 - Special key pressed: Key.backspace
+2025-06-20 11:11:19.339633 - Special key pressed: Key.backspace
+2025-06-20 11:11:19.373721 - Special key pressed: Key.backspace
+2025-06-20 11:11:20.066986 - Key pressed: v
+2025-06-20 11:11:20.307402 - Key pressed: u
+2025-06-20 11:11:20.952964 - Key pressed: l
+2025-06-20 11:11:21.270135 - Key pressed: n
+2025-06-20 11:11:22.377209 - Key pressed: e
+2025-06-20 11:11:22.668086 - Key pressed: e
+2025-06-20 11:11:23.375374 - Special key pressed: Key.backspace
+2025-06-20 11:11:23.788170 - Key pressed: w
+2025-06-20 11:11:24.023775 - Key pressed: e
+2025-06-20 11:11:24.341864 - Key pressed: b
+2025-06-20 11:11:24.739637 - Special key pressed: Key.enter
+
+2025-06-20 11:11:24.808386 - Active window: New Tab - Google Chrome
+2025-06-20 11:11:24.808386 - Open windows: 10
+
+2025-06-20 11:11:39.812599 - Active window: Acunetix Web Vulnerability Scanner - Test websites - Google Chrome
+2025-06-20 11:11:39.812599 - Open windows: 10
+2025-06-20 11:11:48.023115 - Key pressed: h
+2025-06-20 11:11:48.272518 - Key pressed: i
+2025-06-20 11:11:48.428627 - Key pressed: e
+2025-06-20 11:11:48.644509 - Key pressed: l
+2025-06-20 11:11:48.824484 - Key pressed: l
+2025-06-20 11:11:49.017060 - Key pressed: o
+2025-06-20 11:11:51.746679 - Key pressed: \
+2025-06-20 11:11:52.016249 - Special key pressed: Key.backspace
+2025-06-20 11:11:52.534857 - Special key pressed: Key.backspace
+2025-06-20 11:11:52.568774 - Special key pressed: Key.backspace
+2025-06-20 11:11:52.603354 - Special key pressed: Key.backspace
+2025-06-20 11:11:52.728735 - Special key pressed: Key.backspace
+2025-06-20 11:11:52.921796 - Special key pressed: Key.backspace
+2025-06-20 11:11:53.145555 - Special key pressed: Key.backspace
+2025-06-20 11:11:53.534252 - Special key pressed: Key.backspace
+2025-06-20 11:11:54.101325 - Key pressed: t
+2025-06-20 11:11:54.288684 - Key pressed: e
+2025-06-20 11:11:54.496202 - Key pressed: s
+2025-06-20 11:11:54.608137 - Key pressed: t
+
+2025-06-20 11:11:54.817884 - Active window: login page - Google Chrome
+2025-06-20 11:11:54.817884 - Open windows: 10
+2025-06-20 11:11:55.362421 - Special key pressed: Key.enter
+2025-06-20 11:11:57.372688 - Key pressed: t
+2025-06-20 11:11:57.451083 - Key pressed: e
+2025-06-20 11:11:57.670962 - Key pressed: s
+2025-06-20 11:11:57.813168 - Key pressed: t
+
+2025-06-20 11:12:09.823171 - Active window: keystroke_log.txt - Notepad
+2025-06-20 11:12:09.823171 - Open windows: 10
+
+2025-06-20 11:12:24.829499 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:12:24.829499 - Open windows: 9
+
+2025-06-20 11:14:38.681499 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:14:38.681499 - Open windows: 7
+2025-06-20 11:14:42.993760 - Special key pressed: Key.cmd
+2025-06-20 11:14:43.241425 - Special key pressed: Key.left
+2025-06-20 11:14:48.029706 - Key pressed: c
+2025-06-20 11:14:48.218849 - Key pressed: h
+2025-06-20 11:14:48.366379 - Key pressed: r
+2025-06-20 11:14:48.494482 - Key pressed: o
+2025-06-20 11:14:48.683619 - Key pressed: m
+2025-06-20 11:14:48.769469 - Key pressed: e
+2025-06-20 11:14:49.005737 - Special key pressed: Key.enter
+
+2025-06-20 11:14:53.685343 - Active window: New Tab - Google Chrome
+2025-06-20 11:14:53.685343 - Open windows: 7
+2025-06-20 11:14:55.721744 - Special key pressed: Key.down
+2025-06-20 11:14:56.007517 - Special key pressed: Key.down
+2025-06-20 11:14:56.397645 - Special key pressed: Key.enter
+
+2025-06-20 11:15:08.692807 - Active window: Home of Acunetix Art - Google Chrome
+2025-06-20 11:15:08.692807 - Open windows: 7
+2025-06-20 11:15:14.120835 - Key pressed: t
+2025-06-20 11:15:14.239158 - Key pressed: e
+2025-06-20 11:15:14.465272 - Key pressed: s
+2025-06-20 11:15:14.609528 - Key pressed: t
+2025-06-20 11:15:16.558710 - Key pressed: t
+2025-06-20 11:15:16.613606 - Key pressed: e
+2025-06-20 11:15:16.822486 - Key pressed: s
+2025-06-20 11:15:16.933340 - Key pressed: t
+2025-06-20 11:15:19.512720 - Special key pressed: Key.ctrl_l
+
+2025-06-20 11:15:23.698649 - Active window: user info - Google Chrome
+2025-06-20 11:15:23.698649 - Open windows: 7
+2025-06-20 11:15:34.849703 - Special key pressed: Key.backspace
+2025-06-20 11:15:35.466529 - Key pressed: j
+2025-06-20 11:15:35.639957 - Key pressed: a
+2025-06-20 11:15:36.803102 - Key pressed: h
+2025-06-20 11:15:37.378809 - Key pressed: v
+2025-06-20 11:15:37.567011 - Key pressed: i
+2025-06-20 11:15:38.147075 - Special key pressed: Key.backspace
+2025-06-20 11:15:38.339073 - Special key pressed: Key.backspace
+2025-06-20 11:15:38.523958 - Special key pressed: Key.backspace
+
+2025-06-20 11:15:38.704039 - Active window: user info - Google Chrome
+2025-06-20 11:15:38.704039 - Open windows: 7
+2025-06-20 11:15:39.983609 - Key pressed: y
+2025-06-20 11:15:40.157985 - Key pressed: u
+2025-06-20 11:15:42.491310 - Special key pressed: Key.backspace
+2025-06-20 11:15:42.760450 - Special key pressed: Key.backspace
+2025-06-20 11:15:43.009484 - Special key pressed: Key.backspace
+2025-06-20 11:15:43.364388 - Special key pressed: Key.backspace
+2025-06-20 11:15:43.644376 - Key pressed: r
+2025-06-20 11:15:43.846627 - Key pressed: e
+2025-06-20 11:15:44.038754 - Key pressed: y
+2025-06-20 11:15:44.253453 - Key pressed: u
+2025-06-20 11:15:47.752659 - Special key pressed: Key.backspace
+2025-06-20 11:15:47.948455 - Special key pressed: Key.backspace
+2025-06-20 11:15:48.104458 - Special key pressed: Key.backspace
+2025-06-20 11:15:48.273058 - Special key pressed: Key.backspace
+2025-06-20 11:15:49.431511 - Key pressed: 8
+2025-06-20 11:15:49.627234 - Key pressed: 7
+2025-06-20 11:15:49.835151 - Key pressed: 5
+2025-06-20 11:15:50.358419 - Key pressed: 5
+2025-06-20 11:15:52.623694 - Special key pressed: Key.backspace
+2025-06-20 11:15:53.301507 - Key pressed: r
+2025-06-20 11:15:53.455881 - Key pressed: e
+2025-06-20 11:15:53.630081 - Key pressed: y
+
+2025-06-20 11:15:53.712361 - Active window: user info - Google Chrome
+2025-06-20 11:15:53.712361 - Open windows: 7
+2025-06-20 11:15:53.837567 - Key pressed: u
+2025-06-20 11:15:54.273116 - Special key pressed: Key.shift
+2025-06-20 11:15:54.791704 - Special key pressed: Key.shift
+2025-06-20 11:15:54.825897 - Special key pressed: Key.shift
+2025-06-20 11:15:54.860300 - Special key pressed: Key.shift
+2025-06-20 11:15:54.894062 - Special key pressed: Key.shift
+2025-06-20 11:15:54.928649 - Special key pressed: Key.shift
+2025-06-20 11:15:54.962976 - Special key pressed: Key.shift
+2025-06-20 11:15:54.996969 - Special key pressed: Key.shift
+2025-06-20 11:15:55.430435 - Key pressed: 1
+2025-06-20 11:15:55.671367 - Key pressed: 2
+2025-06-20 11:15:55.965498 - Key pressed: 3
+2025-06-20 11:15:57.000889 - Special key pressed: Key.shift
+2025-06-20 11:15:57.224942 - Key pressed: @
+2025-06-20 11:15:58.270785 - Key pressed: g
+2025-06-20 11:15:58.541910 - Key pressed: m
+2025-06-20 11:15:58.685974 - Key pressed: a
+2025-06-20 11:15:58.791341 - Key pressed: i
+2025-06-20 11:15:58.985401 - Key pressed: l
+2025-06-20 11:15:59.234113 - Key pressed: .
+2025-06-20 11:15:59.432191 - Key pressed: c
+2025-06-20 11:16:00.320042 - Key pressed: o
+2025-06-20 11:16:00.480315 - Key pressed: m
+2025-06-20 11:16:02.438957 - Special key pressed: Key.backspace
+2025-06-20 11:16:03.069829 - Key pressed: 9
+2025-06-20 11:16:03.550445 - Key pressed: 2
+2025-06-20 11:16:04.073783 - Key pressed: 6
+2025-06-20 11:16:04.419099 - Key pressed: 8
+2025-06-20 11:16:04.909302 - Key pressed: 9
+
+2025-06-20 11:16:08.718044 - Active window: user info - Google Chrome
+2025-06-20 11:16:08.718044 - Open windows: 7
+2025-06-20 11:16:11.146883 - Key pressed: 0
+2025-06-20 11:16:11.434647 - Key pressed: 8
+2025-06-20 11:16:11.695742 - Key pressed: 6
+2025-06-20 11:16:12.064534 - Key pressed: 4
+2025-06-20 11:16:12.458457 - Key pressed: 2
+2025-06-20 11:16:13.658434 - Special key pressed: Key.ctrl_l
+2025-06-20 11:16:13.832879 - Key pressed: 
+2025-06-20 11:16:14.016815 - Special key pressed: Key.backspace
+2025-06-20 11:16:15.767638 - Key pressed: b
+2025-06-20 11:16:15.950334 - Key pressed: a
+2025-06-20 11:16:16.078892 - Key pressed: p
+2025-06-20 11:16:16.320684 - Key pressed: u
+2025-06-20 11:16:16.514627 - Key pressed: n
+2025-06-20 11:16:16.651124 - Key pressed: a
+2025-06-20 11:16:16.792495 - Key pressed: g
+2025-06-20 11:16:16.928707 - Key pressed: e
+2025-06-20 11:16:17.078638 - Key pressed: r
+2025-06-20 11:16:18.078483 - Special key pressed: Key.space
+2025-06-20 11:16:18.292728 - Key pressed: p
+2025-06-20 11:16:18.417679 - Key pressed: a
+2025-06-20 11:16:18.626209 - Key pressed: t
+2025-06-20 11:16:18.944997 - Key pressed: e
+2025-06-20 11:16:19.079884 - Key pressed: i
+2025-06-20 11:16:19.541070 - Special key pressed: Key.backspace
+2025-06-20 11:16:19.805196 - Key pressed: l
+2025-06-20 11:16:20.348495 - Special key pressed: Key.space
+2025-06-20 11:16:20.498481 - Key pressed: w
+2025-06-20 11:16:20.767232 - Key pressed: d
+2025-06-20 11:16:21.368286 - Key pressed: i
+2025-06-20 11:16:21.665439 - Special key pressed: Key.backspace
+2025-06-20 11:16:21.838947 - Special key pressed: Key.backspace
+2025-06-20 11:16:21.953136 - Key pressed: a
+2025-06-20 11:16:22.239550 - Key pressed: d
+2025-06-20 11:16:22.351498 - Key pressed: i
+2025-06-20 11:16:23.524251 - Special key pressed: Key.space
+
+2025-06-20 11:16:23.723415 - Active window: user info - Google Chrome
+2025-06-20 11:16:23.723415 - Open windows: 7
+2025-06-20 11:16:23.753545 - Key pressed: n
+2025-06-20 11:16:23.882984 - Key pressed: e
+2025-06-20 11:16:24.089376 - Key pressed: a
+2025-06-20 11:16:24.377931 - Key pressed: r
+2025-06-20 11:16:24.577706 - Special key pressed: Key.space
+2025-06-20 11:16:24.757008 - Key pressed: a
+2025-06-20 11:16:24.922260 - Key pressed: h
+2025-06-20 11:16:25.179426 - Key pressed: m
+2025-06-20 11:16:25.338208 - Key pressed: e
+2025-06-20 11:16:26.736868 - Special key pressed: Key.backspace
+2025-06-20 11:16:26.985611 - Special key pressed: Key.backspace
+2025-06-20 11:16:27.180070 - Special key pressed: Key.backspace
+2025-06-20 11:16:27.373731 - Special key pressed: Key.backspace
+2025-06-20 11:16:31.350643 - Key pressed: a
+2025-06-20 11:16:32.573595 - Key pressed: m
+2025-06-20 11:16:32.738656 - Key pressed: a
+2025-06-20 11:16:32.911672 - Key pressed: r
+2025-06-20 11:16:34.786458 - Special key pressed: Key.space
+2025-06-20 11:16:34.950733 - Key pressed: c
+2025-06-20 11:16:35.085314 - Key pressed: i
+2025-06-20 11:16:35.255337 - Key pressed: n
+2025-06-20 11:16:35.387898 - Key pressed: e
+2025-06-20 11:16:35.678982 - Key pressed: r
+2025-06-20 11:16:35.861657 - Key pressed: m
+2025-06-20 11:16:36.024319 - Key pressed: a
+
+2025-06-20 11:16:38.729150 - Active window: user info - Google Chrome
+2025-06-20 11:16:38.729150 - Open windows: 7
+
+2025-06-20 11:16:53.736923 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:16:53.736923 - Open windows: 7
+2025-06-20 11:16:55.218332 - Key pressed: a
+2025-06-20 11:16:55.460001 - Key pressed: l
+2025-06-20 11:16:55.677395 - Key pressed: l
+2025-06-20 11:16:55.956947 - Special key pressed: Key.space
+2025-06-20 11:16:56.284944 - Key pressed: l
+2025-06-20 11:16:56.506965 - Key pressed: o
+2025-06-20 11:16:56.767046 - Key pressed: g
+2025-06-20 11:16:56.949570 - Special key pressed: Key.space
+2025-06-20 11:16:57.107270 - Key pressed: i
+2025-06-20 11:16:57.249674 - Key pressed: n
+2025-06-20 11:16:57.419398 - Key pressed: f
+2025-06-20 11:16:57.467955 - Key pressed: o
+2025-06-20 11:16:57.657691 - Key pressed: r
+2025-06-20 11:16:57.791480 - Key pressed: m
+2025-06-20 11:16:57.956657 - Key pressed: a
+2025-06-20 11:16:58.135393 - Special key pressed: Key.space
+2025-06-20 11:16:58.856803 - Key pressed: s
+2025-06-20 11:16:59.632594 - Special key pressed: Key.backspace
+2025-06-20 11:16:59.832889 - Key pressed: a
+2025-06-20 11:16:59.939026 - Key pressed: l
+2025-06-20 11:17:00.119331 - Key pressed: s
+2025-06-20 11:17:00.152625 - Key pressed: o
+2025-06-20 11:17:00.376657 - Special key pressed: Key.space
+2025-06-20 11:17:00.657133 - Key pressed: s
+2025-06-20 11:17:00.753519 - Key pressed: h
+2025-06-20 11:17:00.931892 - Key pressed: o
+2025-06-20 11:17:00.999464 - Key pressed: w
+2025-06-20 11:17:01.175084 - Special key pressed: Key.space
+2025-06-20 11:17:01.300858 - Key pressed: i
+2025-06-20 11:17:01.449528 - Key pressed: n
+2025-06-20 11:17:01.647465 - Special key pressed: Key.space
+2025-06-20 11:17:01.980994 - Key pressed: r
+2025-06-20 11:17:02.106191 - Key pressed: i
+2025-06-20 11:17:02.269979 - Key pressed: c
+2025-06-20 11:17:02.405446 - Key pressed: h
+2025-06-20 11:17:02.591594 - Special key pressed: Key.space
+2025-06-20 11:17:02.890527 - Key pressed: l
+2025-06-20 11:17:03.073277 - Key pressed: i
+2025-06-20 11:17:03.258510 - Key pressed: b
+2025-06-20 11:17:03.438398 - Key pressed: e
+2025-06-20 11:17:03.564444 - Key pressed: r
+2025-06-20 11:17:03.807390 - Special key pressed: Key.space
+2025-06-20 11:17:04.097048 - Key pressed: i
+2025-06-20 11:17:04.259042 - Special key pressed: Key.space
+2025-06-20 11:17:04.440645 - Key pressed: m
+2025-06-20 11:17:04.526217 - Key pressed: e
+2025-06-20 11:17:04.731472 - Key pressed: a
+2025-06-20 11:17:04.905247 - Key pressed: n
+2025-06-20 11:17:05.006492 - Key pressed: s
+2025-06-20 11:17:05.115209 - Special key pressed: Key.space
+2025-06-20 11:17:05.285185 - Key pressed: i
+2025-06-20 11:17:05.430860 - Key pressed: n
+2025-06-20 11:17:05.566711 - Special key pressed: Key.space
+2025-06-20 11:17:05.693800 - Key pressed: c
+2025-06-20 11:17:05.753552 - Key pressed: o
+2025-06-20 11:17:05.923625 - Key pressed: l
+2025-06-20 11:17:06.092578 - Key pressed: o
+2025-06-20 11:17:06.250156 - Key pressed: r
+2025-06-20 11:17:06.574665 - Key pressed: f
+2025-06-20 11:17:06.772338 - Key pressed: u
+2025-06-20 11:17:06.975315 - Key pressed: l
+2025-06-20 11:17:07.159213 - Special key pressed: Key.space
+2025-06-20 11:17:07.270552 - Key pressed: w
+2025-06-20 11:17:07.462968 - Key pressed: a
+2025-06-20 11:17:07.567135 - Key pressed: y
+2025-06-20 11:17:07.692863 - Special key pressed: Key.space
+2025-06-20 11:17:08.008554 - Special key pressed: Key.enter
+
+2025-06-20 11:17:08.743935 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:17:08.743935 - Open windows: 7
+
+2025-06-20 11:17:23.750380 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:17:23.750380 - Open windows: 7
+
+2025-06-20 11:17:38.756882 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:17:38.756882 - Open windows: 7
+2025-06-20 11:17:44.859462 - Key pressed: v
+2025-06-20 11:17:45.032051 - Key pressed: s
+2025-06-20 11:17:45.331167 - Special key pressed: Key.enter
+
+2025-06-20 11:17:53.760641 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:17:53.760641 - Open windows: 8
+2025-06-20 11:17:56.918642 - Special key pressed: Key.ctrl_l
+2025-06-20 11:17:57.157420 - Key pressed: 
+2025-06-20 11:17:57.546662 - Special key pressed: Key.ctrl_l
+2025-06-20 11:17:57.778935 - Key pressed: 
+2025-06-20 11:17:58.220337 - Special key pressed: Key.ctrl_l
+2025-06-20 11:17:58.459662 - Key pressed: 
+2025-06-20 11:18:04.108624 - Special key pressed: Key.ctrl_l
+2025-06-20 11:18:04.284095 - Key pressed: 
+2025-06-20 11:18:04.619840 - Special key pressed: Key.ctrl_l
+2025-06-20 11:18:04.884275 - Key pressed: 
+2025-06-20 11:18:05.305484 - Special key pressed: Key.ctrl_l
+2025-06-20 11:18:05.600802 - Key pressed: 
+
+2025-06-20 11:18:08.765033 - Active window: window_tracker.py - keylogger - Visual Studio Code
+2025-06-20 11:18:08.765033 - Open windows: 8
+
+2025-06-20 11:18:18.703620 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:18:18.703620 - Open windows: 7
+2025-06-20 11:18:20.761176 - Special key pressed: Key.cmd
+2025-06-20 11:18:20.913367 - Special key pressed: Key.left
+2025-06-20 11:18:30.495297 - Key pressed: v
+2025-06-20 11:18:30.745628 - Key pressed: u
+2025-06-20 11:18:30.954008 - Key pressed: l
+2025-06-20 11:18:31.160992 - Key pressed: n
+2025-06-20 11:18:31.411826 - Key pressed: e
+2025-06-20 11:18:33.549685 - Key pressed: w
+
+2025-06-20 11:18:33.717090 - Active window: New Tab - Google Chrome
+2025-06-20 11:18:33.717090 - Open windows: 7
+2025-06-20 11:18:33.740729 - Key pressed: e
+2025-06-20 11:18:33.943992 - Key pressed: b
+2025-06-20 11:18:35.586174 - Special key pressed: Key.enter
+2025-06-20 11:18:42.691758 - Key pressed: t
+2025-06-20 11:18:42.794331 - Key pressed: e
+2025-06-20 11:18:42.989237 - Key pressed: s
+2025-06-20 11:18:43.052932 - Key pressed: t
+2025-06-20 11:18:45.027185 - Key pressed: t
+2025-06-20 11:18:45.179633 - Key pressed: e
+2025-06-20 11:18:45.375556 - Key pressed: s
+2025-06-20 11:18:45.479774 - Key pressed: t
+2025-06-20 11:18:46.065821 - Special key pressed: Key.enter
+
+2025-06-20 11:18:48.731759 - Active window: user info - Google Chrome
+2025-06-20 11:18:48.731759 - Open windows: 7
+2025-06-20 11:18:51.229283 - Key pressed: v
+2025-06-20 11:18:51.485921 - Key pressed: m
+2025-06-20 11:18:54.216434 - Special key pressed: Key.backspace
+2025-06-20 11:18:54.422049 - Special key pressed: Key.backspace
+2025-06-20 11:18:54.761977 - Key pressed: t
+2025-06-20 11:18:54.868203 - Key pressed: a
+2025-06-20 11:18:55.109011 - Key pressed: s
+2025-06-20 11:18:55.306796 - Key pressed: k
+2025-06-20 11:18:55.477012 - Special key pressed: Key.space
+2025-06-20 11:18:55.678643 - Key pressed: m
+2025-06-20 11:18:55.787258 - Key pressed: a
+2025-06-20 11:18:56.661617 - Special key pressed: Key.enter
+2025-06-20 11:19:01.956993 - Special key pressed: Key.cmd
+2025-06-20 11:19:02.193385 - Key pressed: l
+2025-06-20 11:19:03.211047 - Special key pressed: Key.enter
+
+2025-06-20 11:19:03.742740 - Active window: None
+2025-06-20 11:19:03.742740 - Open windows: 8
+2025-06-20 11:19:11.623085 - Key pressed: y
+2025-06-20 11:19:11.798230 - Key pressed: o
+2025-06-20 11:19:11.980670 - Key pressed: u
+2025-06-20 11:19:12.418760 - Key pressed: t
+2025-06-20 11:19:12.545767 - Key pressed: u
+2025-06-20 11:19:12.913958 - Key pressed: e
+2025-06-20 11:19:13.666465 - Special key pressed: Key.enter
+2025-06-20 11:19:18.097865 - Key pressed: c
+2025-06-20 11:19:18.287698 - Key pressed: y
+2025-06-20 11:19:18.466909 - Key pressed: b
+2025-06-20 11:19:18.576335 - Key pressed: e
+2025-06-20 11:19:18.785743 - Key pressed: r
+2025-06-20 11:19:18.964862 - Special key pressed: Key.space
+2025-06-20 11:19:19.106599 - Key pressed: s
+2025-06-20 11:19:19.305742 - Key pressed: e
+2025-06-20 11:19:19.678673 - Key pressed: u
+2025-06-20 11:19:19.683880 - Key pressed: c
+2025-06-20 11:19:19.843788 - Key pressed: i
+2025-06-20 11:19:19.985775 - Key pressed: r
+2025-06-20 11:19:20.216545 - Key pressed: y
+2025-06-20 11:19:20.221102 - Key pressed: t
+2025-06-20 11:19:20.423847 - Special key pressed: Key.space
+2025-06-20 11:19:20.668024 - Key pressed: v
+2025-06-20 11:19:20.901346 - Key pressed: i
+2025-06-20 11:19:20.985884 - Key pressed: d
+2025-06-20 11:19:21.200840 - Key pressed: e
+2025-06-20 11:19:21.546544 - Key pressed: l
+2025-06-20 11:19:22.266121 - Special key pressed: Key.enter
+
+2025-06-20 11:19:33.755465 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:19:33.755465 - Open windows: 7
+2025-06-20 11:19:42.227200 - Key pressed: i
+2025-06-20 11:19:42.390565 - Key pressed: n
+2025-06-20 11:19:42.552963 - Special key pressed: Key.space
+2025-06-20 11:19:43.045493 - Key pressed: t
+2025-06-20 11:19:43.167712 - Key pressed: e
+2025-06-20 11:19:43.270624 - Key pressed: r
+2025-06-20 11:19:43.565349 - Key pressed: m
+2025-06-20 11:19:43.729455 - Key pressed: i
+2025-06-20 11:19:43.889888 - Key pressed: n
+2025-06-20 11:19:43.896853 - Key pressed: a
+2025-06-20 11:19:44.049715 - Key pressed: l
+2025-06-20 11:19:44.264478 - Special key pressed: Key.space
+2025-06-20 11:19:44.979155 - Key pressed: f
+2025-06-20 11:19:45.058563 - Key pressed: i
+2025-06-20 11:19:45.220865 - Key pressed: r
+2025-06-20 11:19:45.424815 - Key pressed: t
+2025-06-20 11:19:45.462638 - Key pressed: s
+2025-06-20 11:19:45.614443 - Special key pressed: Key.space
+2025-06-20 11:19:46.118200 - Key pressed: s
+2025-06-20 11:19:46.246394 - Key pressed: h
+2025-06-20 11:19:46.401082 - Key pressed: o
+2025-06-20 11:19:46.508298 - Key pressed: w
+2025-06-20 11:19:46.630782 - Special key pressed: Key.space
+2025-06-20 11:19:46.872771 - Key pressed: p
+2025-06-20 11:19:47.077770 - Key pressed: r
+2025-06-20 11:19:47.165653 - Key pressed: o
+2025-06-20 11:19:47.431095 - Key pressed: h
+2025-06-20 11:19:47.836196 - Special key pressed: Key.backspace
+2025-06-20 11:19:48.059115 - Key pressed: j
+2025-06-20 11:19:48.161422 - Key pressed: e
+2025-06-20 11:19:48.308839 - Key pressed: c
+2025-06-20 11:19:48.426125 - Key pressed: t
+2025-06-20 11:19:48.572441 - Special key pressed: Key.space
+2025-06-20 11:19:48.741322 - Key pressed: n
+
+2025-06-20 11:19:48.768974 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:19:48.768974 - Open windows: 7
+2025-06-20 11:19:48.867923 - Key pressed: a
+2025-06-20 11:19:49.124537 - Key pressed: m
+2025-06-20 11:19:49.298463 - Key pressed: e
+2025-06-20 11:19:49.458362 - Special key pressed: Key.space
+2025-06-20 11:19:49.689766 - Key pressed: i
+2025-06-20 11:19:49.843119 - Key pressed: n
+2025-06-20 11:19:49.973800 - Special key pressed: Key.space
+2025-06-20 11:19:50.155749 - Key pressed: c
+2025-06-20 11:19:50.252989 - Key pressed: o
+2025-06-20 11:19:50.422566 - Key pressed: l
+2025-06-20 11:19:50.591094 - Key pressed: o
+2025-06-20 11:19:50.651641 - Key pressed: r
+2025-06-20 11:19:50.930172 - Special key pressed: Key.space
+2025-06-20 11:19:51.700748 - Key pressed: f
+2025-06-20 11:19:51.925467 - Key pressed: u
+2025-06-20 11:19:52.188362 - Key pressed: l
+2025-06-20 11:19:52.344064 - Key pressed: l
+2025-06-20 11:19:52.515053 - Special key pressed: Key.space
+2025-06-20 11:19:52.645788 - Key pressed: w
+2025-06-20 11:19:52.858815 - Key pressed: a
+2025-06-20 11:19:52.979774 - Key pressed: y
+2025-06-20 11:19:53.132447 - Special key pressed: Key.space
+2025-06-20 11:19:53.705528 - Key pressed: l
+2025-06-20 11:19:53.886043 - Key pressed: i
+2025-06-20 11:19:54.048709 - Key pressed: k
+2025-06-20 11:19:54.109841 - Key pressed: e
+2025-06-20 11:19:54.214221 - Special key pressed: Key.space
+2025-06-20 11:19:54.618555 - Key pressed: k
+2025-06-20 11:19:54.831951 - Key pressed: e
+2025-06-20 11:19:55.083740 - Key pressed: y
+2025-06-20 11:19:57.323635 - Key pressed: l
+2025-06-20 11:19:57.506760 - Key pressed: o
+2025-06-20 11:19:57.813869 - Key pressed: g
+2025-06-20 11:19:57.964695 - Key pressed: g
+2025-06-20 11:19:58.042425 - Key pressed: e
+2025-06-20 11:19:58.217696 - Key pressed: r
+2025-06-20 11:19:59.251683 - Special key pressed: Key.space
+2025-06-20 11:20:00.900078 - Key pressed: u
+2025-06-20 11:20:01.003019 - Key pressed: s
+2025-06-20 11:20:01.091624 - Key pressed: i
+2025-06-20 11:20:01.226458 - Key pressed: n
+2025-06-20 11:20:01.454373 - Key pressed: g
+2025-06-20 11:20:01.590538 - Special key pressed: Key.space
+2025-06-20 11:20:01.835103 - Key pressed: p
+2025-06-20 11:20:02.069950 - Key pressed: y
+2025-06-20 11:20:02.252119 - Key pressed: t
+2025-06-20 11:20:02.412989 - Key pressed: h
+2025-06-20 11:20:02.579138 - Key pressed: o
+2025-06-20 11:20:02.745048 - Key pressed: n
+2025-06-20 11:20:02.953492 - Special key pressed: Key.space
+2025-06-20 11:20:03.562581 - Key pressed: s
+
+2025-06-20 11:20:03.779793 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:20:03.779793 - Open windows: 7
+2025-06-20 11:20:03.796306 - Key pressed: c
+2025-06-20 11:20:04.032989 - Key pressed: r
+2025-06-20 11:20:04.215203 - Key pressed: i
+2025-06-20 11:20:04.340457 - Key pressed: p
+2025-06-20 11:20:04.576482 - Key pressed: t
+2025-06-20 11:20:04.743585 - Special key pressed: Key.space
+2025-06-20 11:20:05.955287 - Key pressed: t
+2025-06-20 11:20:06.109045 - Key pressed: h
+2025-06-20 11:20:06.211089 - Key pressed: e
+2025-06-20 11:20:06.312473 - Key pressed: n
+2025-06-20 11:20:06.476323 - Special key pressed: Key.space
+2025-06-20 11:20:06.617174 - Key pressed: a
+2025-06-20 11:20:06.785593 - Key pressed: l
+2025-06-20 11:20:06.916530 - Key pressed: l
+2025-06-20 11:20:07.202386 - Special key pressed: Key.space
+2025-06-20 11:20:08.279559 - Key pressed: s
+2025-06-20 11:20:08.335299 - Key pressed: t
+2025-06-20 11:20:08.514082 - Key pressed: r
+2025-06-20 11:20:08.550929 - Key pressed: a
+2025-06-20 11:20:08.662402 - Key pressed: t
+2025-06-20 11:20:08.950365 - Special key pressed: Key.enter
+
+2025-06-20 11:20:18.792906 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:20:18.792906 - Open windows: 7
+2025-06-20 11:20:33.694632 - Key pressed: m
+2025-06-20 11:20:33.781312 - Key pressed: a
+
+2025-06-20 11:20:33.806866 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:20:33.806866 - Open windows: 7
+2025-06-20 11:20:33.903719 - Key pressed: k
+2025-06-20 11:20:34.029012 - Key pressed: e
+2025-06-20 11:20:34.194336 - Special key pressed: Key.space
+2025-06-20 11:20:34.346528 - Key pressed: a
+2025-06-20 11:20:34.535715 - Special key pressed: Key.space
+2025-06-20 11:20:35.300705 - Key pressed: a
+2025-06-20 11:20:35.452503 - Key pressed: t
+2025-06-20 11:20:35.587296 - Key pressed: t
+2025-06-20 11:20:35.767141 - Key pressed: r
+2025-06-20 11:20:35.937594 - Key pressed: c
+2025-06-20 11:20:36.095688 - Key pressed: t
+2025-06-20 11:20:36.123844 - Key pressed: a
+2025-06-20 11:20:36.504104 - Key pressed: v
+2025-06-20 11:20:36.621391 - Key pressed: e
+2025-06-20 11:20:36.726344 - Special key pressed: Key.space
+2025-06-20 11:20:36.910143 - Key pressed: w
+2025-06-20 11:20:37.139941 - Key pressed: a
+2025-06-20 11:20:37.196518 - Key pressed: y
+2025-06-20 11:20:37.356108 - Special key pressed: Key.space
+2025-06-20 11:20:37.994131 - Key pressed: a
+2025-06-20 11:20:38.107534 - Key pressed: l
+2025-06-20 11:20:38.283575 - Key pressed: o
+2025-06-20 11:20:38.483712 - Key pressed: n
+2025-06-20 11:20:38.707952 - Key pressed: g
+2025-06-20 11:20:38.851871 - Special key pressed: Key.space
+2025-06-20 11:20:39.972657 - Key pressed: r
+2025-06-20 11:20:40.068104 - Key pressed: i
+2025-06-20 11:20:40.326157 - Key pressed: t
+2025-06-20 11:20:40.490102 - Key pressed: t
+2025-06-20 11:20:40.637569 - Key pressed: e
+2025-06-20 11:20:40.819586 - Key pressed: n
+2025-06-20 11:20:41.107223 - Special key pressed: Key.space
+2025-06-20 11:20:41.375059 - Special key pressed: Key.enter
+
+2025-06-20 11:20:48.819217 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:20:48.819217 - Open windows: 7
+
+2025-06-20 11:21:03.829791 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:21:03.829791 - Open windows: 7
+2025-06-20 11:21:08.186877 - Key pressed: v
+2025-06-20 11:21:08.463756 - Key pressed: s
+2025-06-20 11:21:08.853980 - Special key pressed: Key.enter
+2025-06-20 11:21:15.688325 - Special key pressed: Key.ctrl_l
+2025-06-20 11:21:15.839314 - Key pressed: 
+2025-06-20 11:21:16.257749 - Special key pressed: Key.ctrl_l
+2025-06-20 11:21:16.505826 - Key pressed: 
+2025-06-20 11:21:17.123374 - Special key pressed: Key.ctrl_l
+2025-06-20 11:21:17.378394 - Key pressed: 
+2025-06-20 11:21:18.000655 - Special key pressed: Key.cmd
+2025-06-20 11:21:18.199162 - Special key pressed: Key.right
+
+2025-06-20 11:21:18.842129 - Active window: main.py - keylogger - Visual Studio Code
+2025-06-20 11:21:18.842129 - Open windows: 8
+2025-06-20 11:21:24.799030 - Key pressed: c
+2025-06-20 11:21:24.998226 - Key pressed: m
+2025-06-20 11:21:25.145241 - Key pressed: d
+2025-06-20 11:21:25.353041 - Special key pressed: Key.enter
+2025-06-20 11:21:27.558316 - Key pressed: p
+2025-06-20 11:21:27.867419 - Key pressed: y
+2025-06-20 11:21:28.044934 - Key pressed: t
+2025-06-20 11:21:28.707675 - Key pressed: h
+2025-06-20 11:21:28.983271 - Key pressed: o
+2025-06-20 11:21:29.206067 - Key pressed: n
+2025-06-20 11:21:29.455031 - Special key pressed: Key.space
+2025-06-20 11:21:29.642595 - Key pressed: m
+2025-06-20 11:21:29.801921 - Key pressed: a
+2025-06-20 11:21:29.906668 - Key pressed: i
+2025-06-20 11:21:30.073247 - Key pressed: n
+2025-06-20 11:21:30.630862 - Key pressed: .
+2025-06-20 11:21:30.861052 - Key pressed: p
+2025-06-20 11:21:31.149950 - Key pressed: y
+2025-06-20 11:21:31.452132 - Special key pressed: Key.enter
+
+2025-06-20 11:21:32.002017 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:21:32.002017 - Open windows: 9
+
+2025-06-20 11:21:33.850483 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:21:33.850483 - Open windows: 9
+2025-06-20 11:21:42.207972 - Special key pressed: Key.cmd
+2025-06-20 11:21:42.208160 - Special key pressed: Key.cmd
+2025-06-20 11:21:42.471407 - Special key pressed: Key.left
+2025-06-20 11:21:42.471590 - Special key pressed: Key.left
+
+2025-06-20 11:21:47.012304 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:21:47.012304 - Open windows: 9
+
+2025-06-20 11:21:48.858007 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:21:48.858007 - Open windows: 9
+2025-06-20 11:21:51.419969 - Key pressed: m
+2025-06-20 11:21:51.420710 - Key pressed: m
+2025-06-20 11:21:51.496318 - Key pressed: a
+2025-06-20 11:21:51.496690 - Key pressed: a
+2025-06-20 11:21:51.645103 - Key pressed: k
+2025-06-20 11:21:51.645700 - Key pressed: k
+2025-06-20 11:21:51.749540 - Key pressed: e
+2025-06-20 11:21:51.750190 - Key pressed: e
+2025-06-20 11:21:51.886435 - Special key pressed: Key.space
+2025-06-20 11:21:51.886579 - Special key pressed: Key.space
+2025-06-20 11:21:52.185852 - Key pressed: i
+2025-06-20 11:21:52.186522 - Key pressed: i
+2025-06-20 11:21:52.346866 - Key pressed: n
+2025-06-20 11:21:52.347423 - Key pressed: n
+2025-06-20 11:21:52.559183 - Special key pressed: Key.space
+2025-06-20 11:21:52.559024 - Special key pressed: Key.space
+2025-06-20 11:21:52.903033 - Key pressed: c
+2025-06-20 11:21:52.903703 - Key pressed: c
+2025-06-20 11:21:53.243781 - Key pressed: e
+2025-06-20 11:21:53.244362 - Key pressed: e
+2025-06-20 11:21:53.424574 - Key pressed: n
+2025-06-20 11:21:53.425146 - Key pressed: n
+2025-06-20 11:21:53.655062 - Key pressed: t
+2025-06-20 11:21:53.655628 - Key pressed: t
+2025-06-20 11:21:53.803114 - Key pressed: e
+2025-06-20 11:21:53.898968 - Key pressed: r
+2025-06-20 11:21:53.899802 - Key pressed: r
+2025-06-20 11:21:54.253330 - Special key pressed: Key.enter
+2025-06-20 11:21:54.253233 - Special key pressed: Key.enter
+
+2025-06-20 11:22:02.020150 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:22:02.020150 - Open windows: 9
+
+2025-06-20 11:22:03.869476 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:22:03.869476 - Open windows: 9
+
+2025-06-20 11:22:17.028466 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:22:17.028466 - Open windows: 9
+
+2025-06-20 11:22:18.879168 - Active window: main.py - keylogger - Visual Studio Code
+2025-06-20 11:22:18.879168 - Open windows: 9
+2025-06-20 11:22:19.640043 - Special key pressed: Key.ctrl_l
+2025-06-20 11:22:19.640203 - Special key pressed: Key.ctrl_l
+2025-06-20 11:22:19.814906 - Key pressed: 
+2025-06-20 11:22:19.815453 - Key pressed: 
+2025-06-20 11:22:20.216897 - Special key pressed: Key.ctrl_l
+2025-06-20 11:22:20.449570 - Key pressed: 
+2025-06-20 11:22:20.450057 - Key pressed: 
+2025-06-20 11:22:20.940911 - Special key pressed: Key.ctrl_l
+2025-06-20 11:22:21.180851 - Key pressed: 
+2025-06-20 11:22:21.181379 - Key pressed: 
+
+2025-06-20 11:22:32.040200 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:22:32.040200 - Open windows: 9
+
+2025-06-20 11:22:33.893670 - Active window: keylogger - File Explorer
+2025-06-20 11:22:33.893670 - Open windows: 9
+2025-06-20 11:22:34.543695 - Key pressed: c
+2025-06-20 11:22:34.544012 - Key pressed: c
+2025-06-20 11:22:34.749662 - Key pressed: m
+2025-06-20 11:22:34.896698 - Key pressed: d
+2025-06-20 11:22:34.897014 - Key pressed: d
+2025-06-20 11:22:35.618510 - Special key pressed: Key.enter
+2025-06-20 11:22:38.376205 - Key pressed: m
+2025-06-20 11:22:38.376828 - Key pressed: m
+2025-06-20 11:22:38.904018 - Special key pressed: Key.backspace
+2025-06-20 11:22:39.275597 - Key pressed: p
+2025-06-20 11:22:39.276154 - Key pressed: p
+2025-06-20 11:22:39.602948 - Key pressed: y
+2025-06-20 11:22:39.603554 - Key pressed: y
+2025-06-20 11:22:39.797557 - Key pressed: t
+2025-06-20 11:22:39.798148 - Key pressed: t
+2025-06-20 11:22:39.998595 - Key pressed: h
+2025-06-20 11:22:39.999145 - Key pressed: h
+2025-06-20 11:22:40.188397 - Key pressed: o
+2025-06-20 11:22:40.189085 - Key pressed: o
+2025-06-20 11:22:40.390797 - Key pressed: n
+2025-06-20 11:22:40.391395 - Key pressed: n
+2025-06-20 11:22:40.719387 - Special key pressed: Key.space
+2025-06-20 11:22:40.918260 - Key pressed: m
+2025-06-20 11:22:40.918855 - Key pressed: m
+2025-06-20 11:22:41.049633 - Key pressed: a
+2025-06-20 11:22:41.050243 - Key pressed: a
+2025-06-20 11:22:41.171320 - Key pressed: i
+2025-06-20 11:22:41.171896 - Key pressed: i
+2025-06-20 11:22:41.341723 - Key pressed: n
+2025-06-20 11:22:41.342343 - Key pressed: n
+2025-06-20 11:22:41.886686 - Key pressed: .
+2025-06-20 11:22:41.887340 - Key pressed: .
+2025-06-20 11:22:42.114810 - Key pressed: p
+2025-06-20 11:22:42.115381 - Key pressed: p
+2025-06-20 11:22:42.381820 - Key pressed: y
+2025-06-20 11:22:42.382441 - Key pressed: y
+2025-06-20 11:22:42.670947 - Special key pressed: Key.enter
+
+2025-06-20 11:22:43.230922 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:22:43.230922 - Open windows: 10
+
+2025-06-20 11:22:47.061512 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:22:47.061512 - Open windows: 10
+
+2025-06-20 11:22:48.908210 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:22:48.908210 - Open windows: 10
+
+2025-06-20 11:23:02.075157 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:23:02.075157 - Open windows: 8
+
+2025-06-20 11:23:03.916433 - Active window: Terminal Output Debugging - Google Chrome
+2025-06-20 11:23:03.916433 - Open windows: 8
+
+2025-06-20 11:33:59.903183 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:33:59.903183 - Open windows: 6
+2025-06-20 11:34:03.149151 - Key pressed: c
+2025-06-20 11:34:03.307513 - Key pressed: h
+2025-06-20 11:34:03.502144 - Key pressed: r
+2025-06-20 11:34:03.590494 - Key pressed: o
+2025-06-20 11:34:03.750804 - Key pressed: m
+2025-06-20 11:34:03.868880 - Key pressed: e
+2025-06-20 11:34:04.046744 - Special key pressed: Key.enter
+
+2025-06-20 11:34:14.916427 - Active window: Acunetix Web Vulnerability Scanner - Test websites - Google Chrome
+2025-06-20 11:34:14.916427 - Open windows: 7
+2025-06-20 11:34:21.724103 - Key pressed: n
+2025-06-20 11:34:21.936466 - Key pressed: o
+2025-06-20 11:34:22.176382 - Key pressed: t
+2025-06-20 11:34:22.246539 - Key pressed: e
+2025-06-20 11:34:22.602018 - Key pressed: p
+2025-06-20 11:34:22.605931 - Key pressed: o
+2025-06-20 11:34:23.037462 - Special key pressed: Key.backspace
+2025-06-20 11:34:23.441062 - Key pressed: a
+2025-06-20 11:34:23.739878 - Key pressed: d
+2025-06-20 11:34:23.875770 - Special key pressed: Key.enter
+
+2025-06-20 11:34:29.930246 - Active window: None
+2025-06-20 11:34:29.930246 - Open windows: 7
+
+2025-06-20 11:34:44.945596 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:34:44.945596 - Open windows: 7
+
+2025-06-20 11:34:59.975410 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:34:59.975410 - Open windows: 7
+
+2025-06-20 11:35:14.989830 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:35:14.989830 - Open windows: 7
+
+2025-06-20 11:35:30.006065 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:35:30.006065 - Open windows: 9
+
+2025-06-20 11:35:45.017725 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:35:45.017725 - Open windows: 9
+
+2025-06-20 11:36:00.030842 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:36:00.030842 - Open windows: 9
+2025-06-20 11:36:09.786246 - Key pressed: v
+2025-06-20 11:36:10.070745 - Key pressed: s
+2025-06-20 11:36:10.854720 - Special key pressed: Key.enter
+
+2025-06-20 11:36:15.064283 - Active window: main.py - keylogger - Visual Studio Code
+2025-06-20 11:36:15.064283 - Open windows: 10
+
+2025-06-20 11:36:30.074626 - Active window: main.py - keylogger - Visual Studio Code
+2025-06-20 11:36:30.074626 - Open windows: 10
+
+2025-06-20 11:36:45.090576 - Active window: keystroke_log.txt - keylogger - Visual Studio Code
+2025-06-20 11:36:45.090576 - Open windows: 10
+
+2025-06-20 11:37:00.102936 - Active window: keystroke_log.txt - keylogger - Visual Studio Code
+2025-06-20 11:37:00.102936 - Open windows: 10
+
+2025-06-20 11:37:15.120106 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:37:15.120106 - Open windows: 10
+
+2025-06-20 11:37:30.131128 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:37:30.131128 - Open windows: 10
+
+2025-06-20 11:37:45.142117 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:37:45.142117 - Open windows: 10
+
+2025-06-20 11:38:00.156525 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:38:00.156525 - Open windows: 10
+
+2025-06-20 11:38:15.169550 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:38:15.169550 - Open windows: 10
+
+2025-06-20 11:38:30.181891 - Active window: keystroke_log.txt - keylogger - Visual Studio Code
+2025-06-20 11:38:30.181891 - Open windows: 10
+
+2025-06-20 11:38:45.195218 - Active window: window_tracker.py - keylogger - Visual Studio Code
+2025-06-20 11:38:45.195218 - Open windows: 10
+
+2025-06-20 11:39:00.209600 - Active window: window_tracker.py - keylogger - Visual Studio Code
+2025-06-20 11:39:00.209600 - Open windows: 11
+
+2025-06-20 11:39:15.221194 - Active window: main.py - keylogger - Visual Studio Code
+2025-06-20 11:39:15.221194 - Open windows: 10
+2025-06-20 11:39:26.104224 - Special key pressed: Key.num_lock
+2025-06-20 11:39:26.113586 - Special key pressed: Key.cmd
+2025-06-20 11:39:26.121008 - Special key pressed: Key.num_lock
+2025-06-20 11:39:26.134793 - Key pressed: m
+2025-06-20 11:39:26.853784 - Special key pressed: Key.num_lock
+2025-06-20 11:39:26.863353 - Special key pressed: Key.cmd
+2025-06-20 11:39:26.871489 - Special key pressed: Key.cmd
+2025-06-20 11:39:26.930263 - Special key pressed: Key.cmd
+2025-06-20 11:39:26.939786 - Special key pressed: Key.cmd
+2025-06-20 11:39:26.957300 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.117820 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.125945 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.133327 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.137828 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.826984 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.833509 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.840185 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.846903 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.854242 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.862266 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.869105 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.876763 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.881752 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.884820 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.887427 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.889955 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.892684 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.895081 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.896891 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.898864 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.900784 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.903569 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.905413 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.907586 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.910299 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.912235 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.915555 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.918096 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.919840 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.960957 - Special key pressed: Key.cmd
+2025-06-20 11:39:27.964992 - Special key pressed: Key.cmd
+2025-06-20 11:39:28.487484 - Special key pressed: Key.cmd
+2025-06-20 11:39:28.494213 - Special key pressed: Key.cmd
+
+2025-06-20 11:39:30.231378 - Active window: Search
+2025-06-20 11:39:30.231378 - Open windows: 10
+
+2025-06-20 11:39:45.243387 - Active window: Search
+2025-06-20 11:39:45.243387 - Open windows: 10
+
+2025-06-20 11:40:00.256517 - Active window: C:\Windows\System32\cmd.exe - python  main.py
+2025-06-20 11:40:00.256517 - Open windows: 9

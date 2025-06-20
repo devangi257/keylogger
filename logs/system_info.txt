@@ -1,0 +1,12 @@
+Time: 2025-06-20 11:33:59.756611
+OS: Windows
+OS Version: 10.0.22631
+Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+Hostname: DESKTOP-9B8HMI5
+IP Address: 192.168.56.1
+RAM: 15.63 GB
+CPU Cores: 4
+Logical CPUs: 8
+CPU Usage: 8.0%
+Disk Usage: 80.7%
+Battery: 67%

@@ -1,0 +1,6 @@
+```txt
+pynput
+psutil
+pygetwindow
+pyautogui
+rich
